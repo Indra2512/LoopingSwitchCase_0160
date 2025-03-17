@@ -36,6 +36,7 @@ int main()
 
     cout << "Nilai awal n = "<< n<< endl"
 
+    
     while (n < 7)
     {
         cout << "Nilai n = " << n << endl;
